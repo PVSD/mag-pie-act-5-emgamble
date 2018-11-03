@@ -284,7 +284,11 @@ public class Magpie5
 	private String [] randomResponses = {"Interesting, tell me more",
 			"Hmmm.",
 			"Do you really think so?",
-			"You don't say."
+			"You don't say.",
+			"It be like that sometimes",
+			"That's just showbiz, baby.",
+			"Weird flex but ok",
+			"Statements I don't understand? In my chatbot? It's more likely than you think"
 	};
 	
 }
